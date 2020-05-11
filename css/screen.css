@@ -1,0 +1,113 @@
+
+* 
+{
+	box-sizing: border-box;	
+}
+
+html, body 
+{
+	background-color: #f0f0f0
+}
+
+body
+{
+	font-family: Helvetica,sans-serif;
+	line-height: 1.5em;
+	padding: 15px;
+}
+
+h1, h2,h3,h3,h5,h5,p 
+{
+	margin: 0 0 1em 0;
+}
+
+h1
+{
+	font-weight: normal;
+	margin-bottom: .5em;
+}
+
+h4
+{
+	font-weight: bold;
+	margin-bottom: .5em;
+	color: #0f48f0;
+	
+}
+
+.about-placeholder
+{
+	color
+}
+
+.body-text
+{
+	color: blue;
+}
+
+.faq
+{
+		
+}
+
+.faq-question
+{
+	color: blue;
+	cursor: pointer;
+}
+
+
+.answer
+{	
+	padding: 10px 30px 10px 15px;
+	margin: 0 0 1em 0;
+	font-weight: normal;
+	font-size: 13px;
+	position: relative;	
+}
+
+.answer p
+{
+	margin: 0;	
+	color: #000000;
+}
+
+.ui-close
+{
+	background-color: #F2E1AC;
+	color: #8A7A49;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 1px 6px;
+	cursor: pointer;
+}
+
+.ui-message
+{
+	background-color: #F2E1CC;
+	border: 5px solid #F2E1AC;
+	padding: 10px 30px 10px 15px;
+	margin: 0 0 1em 0;
+	font-weight: bold;
+	font-size: 13px;
+	position: relative;
+}
+
+.ui-message p
+{
+	margin: 0;
+}
+
+.container 
+{
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+a,
+a:link,
+a:visited
+{
+	color:blue;
+}
